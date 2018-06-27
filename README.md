@@ -1,8 +1,8 @@
 # NgxStarterKit
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) using [Nrwl Nx](https://nrwl.io/nx).
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) using [Nrwl Nx](https://nrwl.io/nx) from the SUMO ngx-starter-kit.
 
-live [Demo](https://xmlking.github.io/ngx-starter-kit/index.html)
+[Report Issues](https://github.com/xmlking/ngx-starter-kit/issues)
 
 ## Development server
 
