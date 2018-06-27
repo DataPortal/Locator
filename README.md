@@ -8,9 +8,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 After you clone this project, run `npm install`
 
-(I avoided running `npm audit fix`.  Try another time.)
+(You can avoid running `npm audit fix`.)
 
 Run `npm run start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+You can then view Coord.co Bike Share data at: [http://localhost:4200/home/vehicles](http://localhost:4200/home/vehicles)
 
 Run `npm run start:mock` for a mock server.
 
