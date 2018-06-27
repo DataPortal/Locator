@@ -19,7 +19,7 @@ export class PageTitleService {
     if (title !== '') {
       title = `${title} | `;
     }
-    this.bodyTitle.setTitle(`${title}IS360`);
+    this.bodyTitle.setTitle(`${title}DataPortal`);
   }
 
   constructor(private bodyTitle: Title) {}

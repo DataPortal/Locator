@@ -1,4 +1,4 @@
-# Locator Setup Notes
+# Setup Notes
 
 SUMO = Awesome NGX Starter Kit
 > https://github.com/xmlking/ngx-starter-kit
@@ -14,6 +14,9 @@ libs/home/src/lib/containers/landing.component.html
 Backup resides at DirectoryBuilder/ngx-project.
 
 Commented out "Get started" button.
+
+Default page title set in:
+apps/webapp/src/app/core/services/page-title.service.ts:
 
 Top Bar
 libs/home/src/lib/components/header/header.component.html
