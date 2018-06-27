@@ -1,30 +1,24 @@
-# Loren's Notes
+# Locator Setup Notes
 
-Backup reside at DirectoryBuilder/ngx-project.
+SUMO = Awesome NGX Starter Kit
+> https://github.com/xmlking/ngx-starter-kit
+> https://xmlking.github.io/ngx-starter-kit/home
 
-Error during template compile of 'SharedModule'
-  Function calls are not supported in decorators but 'FlexLayoutModule' was called.
-  
-SUMO = Awesome
-https://github.com/xmlking/ngx-starter-kit
-https://xmlking.github.io/ngx-starter-kit/home
-
-Found at NGXS resources
+NGXS resources
 https://ngxs.gitbook.io/ngxs/community/resources
 
-Had to run "npm install" before other steps.  Saw that here:
-https://xmlking.github.io/ngx-starter-kit/home/about
 
-home route:
+Home page route:
 libs/home/src/lib/containers/landing.component.html
 
-Commented out "Get started" button.
+Backup resides at DirectoryBuilder/ngx-project.
 
+Commented out "Get started" button.
 
 Top Bar
 libs/home/src/lib/components/header/header.component.html
 
-Navigation in home resides here:
+Navigation in home
 libs/home/src/lib/components/header/header.component.ts
 
 Top Bar navigation paths
