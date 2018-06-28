@@ -1,4 +1,4 @@
-# Setup Notes
+# Modification Notes
 
 SUMO = Awesome NGX Starter Kit
 > https://github.com/xmlking/ngx-starter-kit
@@ -7,11 +7,10 @@ SUMO = Awesome NGX Starter Kit
 NGXS resources
 https://ngxs.gitbook.io/ngxs/community/resources
 
+<h2>Changes made during setup</h2>
 
 Home page route:
 libs/home/src/lib/containers/landing.component.html
-
-Backup resides at DirectoryBuilder/ngx-project.
 
 Commented out "Get started" button.
 
